@@ -1,0 +1,27 @@
+# Development and testing dependencies for learning-python-object-oriented
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+
+# Type checking
+mypy>=1.5.0
+
+# Code quality
+pylint>=2.17.0
+black>=23.7.0
+flake8>=6.1.0
+isort>=5.12.0
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
+
+# Notebooks (optional)
+jupyter>=1.0.0
+ipython>=8.14.0
+
+# UML diagrams (optional)
+pylint-django>=2.5.3
+pyreverse>=2.17.0
